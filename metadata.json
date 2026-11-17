@@ -1,0 +1,6 @@
+{
+  "name": "FF Pro Optimizer",
+  "description": "Gaming performance dashboard, real-time RAM, CPU, thermal, storage, network ping, and safe cache optimization companion for Free Fire players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
